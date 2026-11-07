@@ -2,7 +2,7 @@
 
 Saguna Mono is a rounded monospace for code: a light, open rhythm with soft round stroke ends and squarish rounds, and a true cursive italic with looped, handwritten forms.
 
-Copyright 2026 The Saguna Mono Project Authors (https://github.com/pravin/font-saguna-mono) Free and open source: every style and the variable fonts are licensed under the SIL Open Font License 1.1 (OFL.txt). Use them for anything, including commercial work, apps and websites.
+Copyright 2026 The Saguna Mono Project Authors (https://github.com/partech-systems/font-saguna-mono) Free and open source: every style and the variable fonts are licensed under the SIL Open Font License 1.1 (OFL.txt). Use them for anything, including commercial work, apps and websites.
 
 ## Families
 
@@ -33,4 +33,4 @@ Copy `web/` to your site and link `saguna-mono.css`:
 
 ## Licence
 
-Free and open source: every style and the variable fonts are licensed under the SIL Open Font License 1.1 (OFL.txt). Use them for anything, including commercial work, apps and websites. Source: https://github.com/pravin/font-saguna-mono
+Free and open source: every style and the variable fonts are licensed under the SIL Open Font License 1.1 (OFL.txt). Use them for anything, including commercial work, apps and websites. Source: https://github.com/partech-systems/font-saguna-mono
